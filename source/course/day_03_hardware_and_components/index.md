@@ -7,3 +7,6 @@ Nebenbei sammeln wir nützliche Begriffe um zu beschreiben, was wir tun.
 Außerdem werden wir einen Computer zerlegen und uns anschauen, woraus der besteht.
 
 {download}`🎬 Slides <./slides.pdf>`
+
+TODO Claus
+* Festplatte, RAM und CPU mit verteilten Rollen
