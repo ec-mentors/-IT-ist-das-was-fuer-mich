@@ -158,3 +158,8 @@ starts.
    longer than necessary.
 1. Migrate eventual issues to new project
 1. Delete old repository and old team (if not done already)
+
+To activate *GitHub Pages*:
+On *GitHub / Settings / GitHub Pages* select
+* Source: Deploy from branch
+* Branch: gh-pages / (root) *Save*
