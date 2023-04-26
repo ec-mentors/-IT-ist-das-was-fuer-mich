@@ -8,8 +8,9 @@ theme: default
 
 ## Was uns im Kurs wichtig ist
 
-*TODO: Foto von Plakat einfügen*
-
+![Was ist uns wichtig!? Poster aus dem Kurs](_static/Zusammenarbeit_Poster.jpg)
 ## Hausregeln
 
-*TODO: einfügen*
+Bitte um Einhaltung folgender Hausregeln:
+
+![Offizielle Hausordnung von Everyone Codes](_static/i%234_Hausordnung.png)
