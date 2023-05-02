@@ -13,4 +13,4 @@ theme: default
 
 Bitte um Einhaltung folgender Hausregeln:
 
-![Offizielle Hausordnung von Everyone Codes](_static/i%234_Hausordnung.png)
+![Offizielle Hausordnung von Everyone Codes](_static/i4_Hausordnung.png)
