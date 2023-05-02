@@ -101,6 +101,7 @@ templates_path = ["_templates"]
 # Work in progress (wip) patterns for content that is not yet
 # read for publication
 wip_exclude_patterns = [
+    "source/course/wip",
     "**/*wip*",
     "*wip*",  #  to exclude folders/files in source/*wip*
     "./source/participants/wip",

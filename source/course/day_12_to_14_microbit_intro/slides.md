@@ -8,12 +8,9 @@ paginate: true
 
 # IT, ist das was für mich? 👩‍💻
 
-## Tag 9
+## Tage 12 - 14
 
-Wir  wiederholen und probieren was neues:
-
-- Einen Computer in Betrieb nehmen
-- Programmieren mit dem BBC micro:bit
+Wir schlagen ein neues Kapitel auf
 
 ---
 
@@ -47,8 +44,6 @@ Wir  wiederholen und probieren was neues:
 - Standortbestimmung
 - Wiederholung
 - Neue Hardware
-  - Raspberry PI
-  - BBC micro:bit
 - Neue Möglichkeiten
 
 ---
@@ -106,8 +101,6 @@ Gleich geht's weiter.
 ---
 
 ### Was kommt morgen
-
-- Berufsbilder und Karrierepläne mit Dani
 
 ---
 
