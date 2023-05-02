@@ -101,7 +101,7 @@ auch einen Blick in [hierher](https://caniuse.com/webusb) werfen und probieren,
 ob WebUSB mit einem anderen Browser klappt.
 ```
 
-## Etwas größere Aufgaben 🐣
+## Etwas größere Aufgaben 🐤
 
 In den obigen Beispielen ergab sich das Programm sehr direkt.
 Wir haben den passenden Block gewählt und waren fast schon fertig.
