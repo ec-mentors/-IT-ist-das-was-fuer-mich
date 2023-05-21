@@ -18,7 +18,8 @@ Werkzeuge:
 Tutorials:
 - [Mozilla's "Learn web development"](https://developer.mozilla.org/en-US/docs/Learn)
 - [Django Girls "Start your journey with programming"](https://djangogirls.org/en/resources/)
-- [HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
+- [W3 Schools: HTML](https://www.w3schools.com/html/default.asp)
+- [W3 Schools: CSS](https://www.w3schools.com/Css/)
 - [Markdown](https://commonmark.org/)
 
 (markdown_target)=
@@ -139,4 +140,50 @@ Wenn du Hilft brauchst, wende dich an eine Kollegin.
 
 *Damit wir nicht durcheinander kommen, mache bitte keine Änderungen in anderen
 Dateien, nur in eurer eigenen.*
+```
+
+
+## Entwicklungswerkzeuge
+
+Sobald man beginnt lokal (auf dem eigenen Computer) Webseiten zu entwickeln,
+d.h. zumindest HTML-Dateien zu editieren, ist es sehr hilfreich,
+dazu geeignete Texteditoren zu verwenden.
+
+Es gibt eine Vielzahl von Systemen um die Entwicklung zu erleichtern,
+ein weit verbreitetes Werkzeug ist [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
+
+VSCode gibt es auch [online](https://vscode.dev/).
+
+
+## Minimales Beispiel für HTML und CSS
+
+Es ist oft gut, möglichst klein zu beginnen.
+
+Zwei sehr minimal gehaltene Beispiele für eine HTML und eine CSS Datei
+findest du hier.
+
+**mini_index.html**
+
+```{literalinclude} ./_static/mini_index.html
+:language: html
+```
+
+**mini_style.css**
+
+```{literalinclude} ./_static/mini_style.css
+:language: css
+```
+
+```{exercise} Minimale Webseite erstellen
+:label: exercise-create-minimal-website
+
+Speichere die oben gezeigten Texte jeweils als eigene Datei
+in einem gemeinsamen Ordner und öffne die HTML-Datei in einem Browser.
+
+Was siehst du?
+
+Fragen:
+* Wie hängen die Dateien zusammen?
+* Wieso ist es wichtig, dass sie im gleichen Ordner liegen?
+* Welche Fragen hast du jetzt?
 ```

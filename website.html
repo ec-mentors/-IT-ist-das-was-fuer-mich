@@ -466,6 +466,16 @@ title="Print to PDF"
    Kursseite aktualisieren
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#entwicklungswerkzeuge">
+   Entwicklungswerkzeuge
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#minimales-beispiel-fur-html-und-css">
+   Minimales Beispiel für HTML und CSS
+  </a>
+ </li>
 </ul>
 
     </nav>
@@ -493,6 +503,16 @@ title="Print to PDF"
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#kursseite-aktualisieren">
    Kursseite aktualisieren
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#entwicklungswerkzeuge">
+   Entwicklungswerkzeuge
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#minimales-beispiel-fur-html-und-css">
+   Minimales Beispiel für HTML und CSS
   </a>
  </li>
 </ul>
@@ -526,7 +546,8 @@ Anwendung kommen.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://developer.mozilla.org/en-US/docs/Learn">Mozilla’s „Learn web development“</a></p></li>
 <li><p><a class="reference external" href="https://djangogirls.org/en/resources/">Django Girls „Start your journey with programming“</a></p></li>
-<li><p><a class="reference external" href="https://www.w3schools.com/html/html_basic.asp">HTML Basic Examples</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/html/default.asp">W3 Schools: HTML</a></p></li>
+<li><p><a class="reference external" href="https://www.w3schools.com/Css/">W3 Schools: CSS</a></p></li>
 <li><p><a class="reference external" href="https://commonmark.org/">Markdown</a></p></li>
 </ul>
 <section id="markdown-als-vorstufe-zu-html">
@@ -629,6 +650,71 @@ zu finden sind.</p>
 <p>Wenn du Hilft brauchst, wende dich an eine Kollegin.</p>
 <p><em>Damit wir nicht durcheinander kommen, mache bitte keine Änderungen in anderen
 Dateien, nur in eurer eigenen.</em></p>
+</section>
+</div>
+</section>
+<section id="entwicklungswerkzeuge">
+<h2>Entwicklungswerkzeuge<a class="headerlink" href="#entwicklungswerkzeuge" title="Link zu dieser Überschrift">#</a></h2>
+<p>Sobald man beginnt lokal (auf dem eigenen Computer) Webseiten zu entwickeln,
+d.h. zumindest HTML-Dateien zu editieren, ist es sehr hilfreich,
+dazu geeignete Texteditoren zu verwenden.</p>
+<p>Es gibt eine Vielzahl von Systemen um die Entwicklung zu erleichtern,
+ein weit verbreitetes Werkzeug ist <a class="reference external" href="https://code.visualstudio.com/">Visual Studio Code (VSCode)</a>.</p>
+<p>VSCode gibt es auch <a class="reference external" href="https://vscode.dev/">online</a>.</p>
+</section>
+<section id="minimales-beispiel-fur-html-und-css">
+<h2>Minimales Beispiel für HTML und CSS<a class="headerlink" href="#minimales-beispiel-fur-html-und-css" title="Link zu dieser Überschrift">#</a></h2>
+<p>Es ist oft gut, möglichst klein zu beginnen.</p>
+<p>Zwei sehr minimal gehaltene Beispiele für eine HTML und eine CSS Datei
+findest du hier.</p>
+<p><strong>mini_index.html</strong></p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;en&quot;</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>title<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;mini_style.css&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;script.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+<span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Header Text in h1 Tags<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+    <span class="cm">&lt;!-- page content --&gt;</span>
+<span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+</div>
+<p><strong>mini_style.css</strong></p>
+<div class="highlight-css notranslate"><div class="highlight"><pre><span></span><span class="nt">body</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">background-color</span><span class="p">:</span><span class="w"> </span><span class="kc">lightblue</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">h1</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">white</span><span class="p">;</span>
+<span class="w">    </span><span class="k">text-align</span><span class="p">:</span><span class="w"> </span><span class="kc">center</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">font-family</span><span class="p">:</span><span class="w"> </span><span class="n">verdana</span><span class="p">;</span>
+<span class="w">    </span><span class="k">font-size</span><span class="p">:</span><span class="w"> </span><span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<div class="exercise admonition" id="exercise-create-minimal-website">
+
+<p class="admonition-title"><span class="caption-number">Exercise 24 </span> (Minimale Webseite erstellen)</p>
+<section id="exercise-content">
+<p>Speichere die oben gezeigten Texte jeweils als eigene Datei
+in einem gemeinsamen Ordner und öffne die HTML-Datei in einem Browser.</p>
+<p>Was siehst du?</p>
+<p>Fragen:</p>
+<ul class="simple">
+<li><p>Wie hängen die Dateien zusammen?</p></li>
+<li><p>Wieso ist es wichtig, dass sie im gleichen Ordner liegen?</p></li>
+<li><p>Welche Fragen hast du jetzt?</p></li>
+</ul>
 </section>
 </div>
 </section>
