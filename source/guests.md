@@ -27,8 +27,11 @@ Fragen:
 
 Sophie war so freundlich uns nach einem ihrer vergangenen Besuche folgende Dokumente zur
 Verfügung zu stellen:
-* {download}`Game Dev Ausbildungen in Österreich <./_static/AusbildungenInOesterreich.pdf>`
-* {download}`Game Dev Jobs in der Spieleindustrie <./_static/JobsInDerSpieleIndustrie.pdf>`
+* {download}`Game Dev Ausbildungen in Österreich (2023) <./_static/GamesAusbildungen.pdf>`
+
+Hier noch die alten Versionen:
+* {download}`Game Dev Ausbildungen in Österreich (2022)<./_static/AusbildungenInOesterreich.pdf>`
+* {download}`Game Dev Jobs in der Spieleindustrie (2022)<./_static/JobsInDerSpieleIndustrie.pdf>`
 
 
 ## Projektleiterin und Scrum Master (Dagmar Labes)
