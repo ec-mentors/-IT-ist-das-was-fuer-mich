@@ -3,7 +3,7 @@ myst:
   substitutions:
     feedback_link: '[Feedback](https://forms.gle/ywJgSAC77C3itHFK7)'
 ---
-# Tag 23: Frühstück, Abschluss und Ausblick
+# Tag 25: Frühstück, Abschluss und Ausblick
 
 **Auf zu neuen Ufern!** ☕ 🥐 🚀
 
@@ -60,4 +60,3 @@ unter {ref}`Selber Lernen <learning_target>` gesammelt.
 > Claus
 >
 > PS: Es würde mich freuen in Zukunft von euch zu hören.
-
